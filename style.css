@@ -1,0 +1,118 @@
+.logo-area img{
+    width: 180px;
+}
+
+.btn {
+    border-radius: 25px;
+    background-color: #21B573;
+    color: #fff;
+    padding: 8px 25px;
+    border: none;
+}
+
+#cont {
+    padding-top: 100px;
+}
+
+.Illustration img {
+  width: 720px;
+  margin-left: 80px;
+}
+
+.bg-c{
+    background-color: #F0FFF0;
+
+}
+
+.fs {
+    font-size: 50px;
+}
+
+.cal span {
+    color: #21B573;
+}
+
+.bb {
+    border-radius: 22px;
+    background-color: #21B573;
+    color: #fff;
+    padding: 8px 35px;
+    border: none;
+}
+
+.text-danger {
+    font-size: 19px;
+    
+}
+
+.rw img {
+    width: 100px;
+}
+
+.box-d img {
+    width: 120px;
+    margin-bottom: 26px;
+}
+
+.box-d {
+    
+    padding: 30px 0px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 4px lightgray;
+}
+
+
+.foot img {
+    width: 45px;
+}
+
+.pd {
+    margin-bottom: 40px;
+}
+
+/* .man {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+*/
+
+.man img {
+    max-width: 150px;
+    margin-right: 10px; 
+}
+
+.mn {
+    padding-bottom: 100px;
+}
+
+.footer-area{
+    background-color: #282431;
+    padding-top: 45px;
+    padding-bottom: 15px;
+}
+
+#cl {
+    color: #F0FFF0;
+}
+
+.container .card, .card-footer {
+    border: none;
+}
+
+.card-footer {
+    background-color: #ffff;
+}
+
+.lsd .card {
+    box-shadow: 5px 5px 6px 4px lightgray;
+    border-radius: 12px;
+
+}
+
+.ld {
+    padding-top: 50px;
+}
+
